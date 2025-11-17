@@ -146,7 +146,7 @@ body {
   position: relative;
   width: 200px;
   height: 170px;
-  background-image: url(images/9.jpg);
+  background-image: url(9.jpg);
   margin: 150px auto auto;
 }
 .cat-mark:before,
@@ -240,3 +240,4 @@ body {
     overflow: visible;
   }
 }
+
